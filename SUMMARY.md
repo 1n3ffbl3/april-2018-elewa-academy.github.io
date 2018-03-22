@@ -12,5 +12,5 @@
   * [Week 8](08-Week-8.md)  
   * [Week 9](09-Week-9.md)  
   * [Week 10](10-Week-10.md)  
-  * [The Real World](./11-The-Real-World.md)  
+* [Job Search](11-Job-Search.md)
 * [Repo](https://github.com/elewa-academy/April-2018/tree/master/)
