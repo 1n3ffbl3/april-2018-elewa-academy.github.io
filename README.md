@@ -1,27 +1,12 @@
-
+# April 2018 Home Page
 
 ### Index
-* [Schedule](#schedule)
 * [Project Series](#project-series)
 * [General Resources](#general-resources)
 * [Community](#community)
 
 ___
 
-## Schedule
-
-* [The Schedule](https://elewa-academy.github.io/April-Schedule)
-
-daily
-	events (ots, cd, dmu's, ...)
-	what we do in class
-
-weekly
-	project goals
-
-[TOP](#index)
-
----
 
 ## Project Series
 
@@ -30,13 +15,13 @@ weekly
 1. [Fundamentals](https://elewa-academy.github.io/Fundamentals)
 2. [Modular Design](https://elewa-academy.github.io/Modular-Design)
 3. Stateless Frontend
-4. TDD
+4. Testing
 5. [Collaboration 1](https://elewa-academy.github.io/collaboration/)
 6. [Design Patterns](https://elewa-academy.github.io/MEGAMODEL)
 7. Stateful Fullstack
-8. Collaboration 2
-9. Async Programming
-10. React.js
+8. Group Project
+9. React.js
+
 
 
 [TOP](#elewas-open-curriculum)

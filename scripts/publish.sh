@@ -7,7 +7,7 @@ rm -rf ./docs
 # pull other changes
 git pull elewa master
 # enter gitbook source
-cd docs_src
+# cd docs_src
 # build new gitbook
 gitbook build
 # copy it out of the way for branch change
@@ -16,7 +16,7 @@ cp -rf ./_book/. ../docs/
 # delete the /_book foler
 rm -rf _book
 # return to parent directory
-cd ..
+# cd ..
 # commit recent build
 git add .
 git commit -m 'publishing'
