@@ -1,6 +1,6 @@
 # Summary
 
-* [April Home Page](README.md) 
+* [Projects & Resources](README.md) 
 * [Weekly Schedule](./00-Birds-Eye-View) 
   * [Week 1](01-Week-1.md)  
   * [Week 2](02-Week-2.md)  

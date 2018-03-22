@@ -12,7 +12,7 @@ git pull elewa master
 gitbook build
 # copy it out of the way for branch change
 # f to overwirte last publication
-cp -rf ./_book/. ../docs/ 
+cp -rf ./_book/. ./docs/ 
 # delete the /_book foler
 rm -rf _book
 # return to parent directory
