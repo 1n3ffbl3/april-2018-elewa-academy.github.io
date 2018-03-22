@@ -1,0 +1,279 @@
+FE
+	1
+		m - t
+			consolidate js 30
+			interacting with code
+			user-centered development
+		f
+			follow practical javascript over the weekend
+	2
+		m
+			code along: cleancalc
+			projects:
+				due pjs
+				finish cleancalc
+		t
+			code along: building repos, mvc
+			projects:
+				finish ultra practical javascript
+		w
+			code along: handling larger projects
+			projects:
+				start: multi-modal tictactoe
+		t
+			code along: testing 
+						terminal (building, testing)
+			projects:
+				add testing to your tictactoe
+	3
+		m
+			code along: Inheritance
+			projects: 
+				due: testing, commander, vanilla, jquery, terminal, ui library
+				start: MEGAMODEL
+		t
+			code along: Async refactor (include testing)
+			projects:
+				due: MEGAMODEL inheritance
+				start: MEGAMODEL async
+		w
+			code along: guided collaboration
+			projects: 
+				due: MEGAMODEL, guided collaboration
+
+		t
+			code along: unguided collaboration
+			project:
+				start: unguided collaboration
+				start: be-youtube
+	4
+		m
+			code along: Components, apis, building
+			projects:
+				due: unguided collaboration
+				due: be youtube
+				start: portfolio facelift 
+		t
+			code along: pseudo-fullstack (exp handler, async calls, postman)
+			projects:
+				start: add exp/axios to mm-ttt
+		w
+			code along: persisting
+			projects:
+				due: express to mm-ttt
+				start: add mongoose model to express handler
+		t
+			code along: deployment
+			projects: 
+				due: persistent model
+				start: deploy first fullstack app
+		f
+			due: portfolio facelift
+FS
+
+	wk 5
+		basic express architecture (ejs)
+		microservices
+		portfolio meta-app
+		collaborative project
+			starbook
+		authentication
+
+	wk 6
+		react prep
+		capstone planning
+		front end apps
+		everything project
+		prepare backend for react
+		portfolio retrospective
+
+FE
+	wk 1
+		specs
+		javascript objects
+		logic vs framework
+		mvc
+		full repos
+		project structure
+
+	wk 2
+		async
+		model objects
+		collaboration
+		group project
+
+	wk 3
+		build environments
+		bundling
+		front-end apps
+	wk 4
+		full web apps
+			ejs
+			express
+		react portfolio optional
+
+Fullstack
+
+	wk 5
+		microservices
+		portfolio meta-app
+		collaborative project
+			starbook
+		authentication
+
+	wk 6
+		front end apps
+		everything project
+		portfolio retrospective
+
+RE - pending flo
+	wk 7
+	wk 8
+
+final projects
+	wk 9
+		1-1
+		interview practice
+		job prep
+		work shops?
+
+	wk 10
+		1-1
+		interview practice
+		job prep
+		work shops?
+
+	wk 11
+		1-1
+		interview practice
+		job prep
+		work shops?
+
+
+
+
+
+
+
+things relevant to in-person students
+
+first week
+	introductions
+		veronika
+		nyeem
+		gota
+		nicolas
+		juan?
+		bart
+		george - video
+		flo - video
+
+
+workshops
+	yes
+		realdolmen
+		cronos
+		veronika - design
+
+codealongs
+	riens
+	projects
+	open-ended (ala "solve world hunger")
+
+
+
+afternoons be
+
+
+
+
+gitbooks
+	welcome 
+		m-w
+			mornings
+				high-level lectures/discussions
+				tool or trick
+				workshops/guest speakers
+				process code alongs
+			afternoons
+				small group sessions
+				code alongs
+				group work
+				1-1's
+			code-alongs
+		t
+			morning classtime
+			afternoons
+				1-1's (3)
+				mentors
+		f
+			1-1's (rest)
+			catchup
+			mentors present
+		how projects line up with days
+		1-1's
+			calendly
+			can choose who with
+			can be small group
+			come prepared with
+				finished assignment
+				list of questions/
+	"frontend": -- 2/4 - 20/4 --
+		w1: 2/4 - 6/4
+			m
+			t
+			w
+			t
+		w2: 9/4 - 13/4
+			m
+			t
+			w
+			t
+		w3: 16/4 - 20/4
+			m
+			t
+			w
+			t
+			f  -  germany
+	"fullstack":  -- 23/4 - 18/5 --
+		w4: 23/4 - 27/4
+			m
+			t
+			w
+			t
+		w5: 30/4 - 4/5
+			m
+			t
+			w
+			t
+		w6: 7/5 - 11/5
+			m
+			t
+			w
+			t
+		w7: 14/5 - 18/5 
+			m
+			t
+			w
+			t
+	"final": -- 21/5 - 8/6 --
+		w8: 21/5 - 25/5
+			m
+			t
+			w
+			t
+		w9: 28/5 - 1/6
+			m
+			t
+			w
+			t
+		w10: 4/6 - 8/6
+			m
+			t
+			w
+			t
+
+
+
+
+

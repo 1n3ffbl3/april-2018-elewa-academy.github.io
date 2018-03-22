@@ -1,5 +1,3 @@
-# April home page
-
 
 
 ### Index
