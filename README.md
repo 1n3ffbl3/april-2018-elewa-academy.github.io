@@ -4,6 +4,7 @@
 * [Project Series](#project-series)
 * [General Resources](#general-resources)
 * [Community](#community)
+* [Wiki](https://github.com/elewa-academy/elewa-academy.github.io/wiki)
 
 ___
 
@@ -14,9 +15,9 @@ ___
 0. [Precourse](https://elewa-academy.github.io/April-Precourse)
 1. [Fundamentals](https://elewa-academy.github.io/Fundamentals)
 2. [Modular Design](https://elewa-academy.github.io/Modular-Design)
-3. Stateless Frontend
-4. Testing
-5. [Collaboration 1](https://elewa-academy.github.io/collaboration/)
+3. [Collaboration 1](https://elewa-academy.github.io/collaboration/)
+4. Stateless Frontend
+5. Testing
 6. [Design Patterns](https://elewa-academy.github.io/MEGAMODEL)
 7. Stateful Fullstack
 8. Group Project
