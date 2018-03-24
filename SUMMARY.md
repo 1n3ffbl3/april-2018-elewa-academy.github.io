@@ -8,6 +8,5 @@
 * [General Resources](https://github.com/elewa-academy/General-Resources/wiki)
 * [Job Search](https://github.com/elewa-academy/General-Resources/wiki/Job-Search)
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
-* [Repo](https://github.com/elewa-academy/April-2018/tree/master/)
 * [Home](https://elewa-academy.github.io/)
 
