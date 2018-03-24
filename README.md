@@ -2,7 +2,7 @@
 
 
 
-We will use this page to keep you up-to-date on what will be coming your way.
+Keep an eye on this page for any important updates.
 
 ___
 ___
