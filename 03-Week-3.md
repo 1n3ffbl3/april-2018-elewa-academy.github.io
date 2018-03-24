@@ -1,46 +1,49 @@
-16/4 - 20/4
+# Week 3: 16/4 - 20/4
 
-  
-**Learning Objectives**  
-  *  
-  
-**Monday**   
-* Code Alongs
-  * [Guided Collaboration](https://elewa-academy.github.io/Frontend-Code-Alongs/09-collaboration-guided/)
-* Projects
-  * Due
-    * [Midterm Project](https://elewa-academy.github.io/Frontend-Projects/05-midterm-project/)
-
-**Tuesday**  
-* Code Alongs
-  * [Unguided Collaboration](https://elewa-academy.github.io/Frontend-Code-Alongs/10-collaboration-unguided/)
-* Projects
-  * Start 
-    * [Collaboration](https://elewa-academy.github.io/Frontend-Projects/06-collaboration/)
+This week's main objective is learning how to plan and organize your development process:
+* User Stories
+* Design Thinking
+* Feature Roll-Out
+* User Awareness
 
 
-**Wednesday**   
-* Code Alongs
-  * [Components, API's & Building](https://elewa-academy.github.io/Frontend-Code-Alongs/11-components-apis-building/)
-* Projects
-  * Continue [Collaboration](https://elewa-academy.github.io/Frontend-Projects/06-collaboration/)
-  * Start
-    * [Be Youtube](https://elewa-academy.github.io/Frontend-Projects/07-be-youtube/)
 
-**Thursday**  
-* Code Alongs
-  * [Components, API's & Building](https://elewa-academy.github.io/Frontend-Code-Alongs/11-components-apis-building/)
-* Projects
-  * Due
-    * [Be Youtube](https://elewa-academy.github.io/Frontend-Projects/07-be-youtube/)
-    * [Collaboration](https://elewa-academy.github.io/Frontend-Projects/06-collaboration/)
-  * Start
-    * [Moving On](https://elewa-academy.github.io/Frontend-Projects/09-moving-on/)
-    * [Portfolio Facelift](https://elewa-academy.github.io/Frontend-Projects/08-portfolio-facelift/)
 
-**Friday**
-* Due
-  * [Moving On](https://elewa-academy.github.io/Frontend-Projects/09-moving-on/)
+___
+
+## **Project Completion Goals**  
+* All of [Modular Design](https://elewa-academy.github.io/Modular-Design/)
+* Collaborative Project from the Workshop
+* [3+ Codewar Repos](https://elewa-academy.github.io/Fundamentals/04-codewars-gallery/)
+* [3+ TDD Repos](https://elewa-academy.github.io/Fundamentals/05-tdd-katas/)
+* [Weekly Notes](https://elewa-academy.github.io/Fundamentals/00-motivation-studying/)
+
+___
+## Daily Schedule
+
+1. **Monday**   - 16/4
+    * Code Alongs
+      * [Ultra-Practical JavaScirpt](https://elewa-academy.github.io/Modular-Design/00-ultra-practical-javascript/)
+      * [MVC](https://elewa-academy.github.io/Modular-Design/01-mvc/)
+    * Evening Events
+      * [OpenTechSchool](https://www.meetup.com/OpenTechSchool-Brussels/events/lncmfpyxgbvb/)
+
+2.  **Tuesday**   - 17/4  
+    * Code Alongs
+       * [Dependency Injection](https://elewa-academy.github.io/Modular-Design/02-dependency-injection/)
+       * [Testing Modules](https://elewa-academy.github.io/Modular-Design/04-testing-modules/)
+    * Challenge: 
+        * [Async Interactions](https://elewa-academy.github.io/Modular-Design/03-async-interactions/)
+     
+3. **Wednesday**   - 18/4 
+    * Collaboration Workshop
+
+4. **Thursday**   - 19/4   
+    * Collaboration Workshop
+
+5. **Friday**  - 20/5
+    * Collaboration Workshop
+
 
 ___
 ___

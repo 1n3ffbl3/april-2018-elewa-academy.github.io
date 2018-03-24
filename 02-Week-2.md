@@ -1,51 +1,48 @@
-9/4 - 13/4
+# Week 2:  9/4 - 13/4
 
-  
-**Learning Objectives**  
-* separation of concerns
-* advanced js
-* software developement & design
-  
-
-**Monday**   
-* Code Alongs
-  * [Building Repos](https://elewa-academy.github.io/Frontend-Code-Alongs/04-building-repositories/) 
-  * [MVC](https://elewa-academy.github.io/Frontend-Code-Alongs/05-mvc/)
-* Projects
-  * Continue [Ultra Practical JavaScript](https://elewa-academy.github.io/Frontend-Projects/02-ultra-practical-javascript/)
-
-**Tuesday**  
-* Code Alongs
-  * [Handling large projects](https://elewa-academy.github.io/Frontend-Code-Alongs/06-handling-large-projects/)
-* Projects
-  * Due
-    * [Ultra Practical JavaScript](https://elewa-academy.github.io/Frontend-Projects/02-ultra-practical-javascript/)
-  * Start
-    * [Multi-Modal Tic Tac Toe](https://elewa-academy.github.io/Frontend-Projects/03-multi-modal-tic-tac-toe/)
+This week's main objective is learning how to plan and organize your development process:
+* User Stories
+* Design Thinking
+* Feature Roll-Out
+* User Awareness
 
 
-**Wednesday**   
-* Code Alongs
-  * [Inhertance](https://elewa-academy.github.io/Frontend-Code-Alongs/07-inheritance/)
-* Projects
-  * Due
-    * [Multi-Modal Tic Tac Toe](https://elewa-academy.github.io/Frontend-Projects/03-multi-modal-tic-tac-toe/)
-  * Start
-    * [MEGAMODEL](https://elewa-academy.github.io/Frontend-Projects/04-megamodel/)
 
-**Thursday**  
-* Code Alongs
-  * [Async refactor](https://elewa-academy.github.io/Frontend-Code-Alongs/08-async-refactor/)
-  * Discuss Midterm Project
-* Projects
-  * Continue [MEGAMODEL](https://elewa-academy.github.io/Frontend-Projects/04-megamodel/)
-  * Start
-    * [Midterm Project](https://elewa-academy.github.io/Frontend-Projects/05-midterm-project/)
 
-**Friday**
-* Due
-  * [MEGAMODEL](https://elewa-academy.github.io/Frontend-Projects/04-megamodel/)
+___
 
+## **Project Completion Goals**  
+* [BattleShip](https://elewa-academy.github.io/Fundamentals/10-all-together/) (Finish over the weekend)
+* [Ultra-Practical JavaScirpt](https://elewa-academy.github.io/Modular-Design/00-ultra-practical-javascript/) (Begin after BattleShip is finished)
+* [5+ Organized Developments](https://elewa-academy.github.io/Fundamentals/08-organizing-development/)
+* [3+ Codewar Repos](https://elewa-academy.github.io/Fundamentals/04-codewars-gallery/)
+* [3+ TDD Repos](https://elewa-academy.github.io/Fundamentals/05-tdd-katas/)
+* [Weekly Notes](https://elewa-academy.github.io/Fundamentals/00-motivation-studying/)
+
+___
+## Daily Schedule
+
+1. **Monday**   - 9/4
+    * Code Alongs
+      * [Organizing Development](https://elewa-academy.github.io/Fundamentals/08-organizing-development/)
+      * [TDD Katas](https://elewa-academy.github.io/Fundamentals/05-tdd-katas/)
+    * Evening Events
+      * [OpenTechSchool](https://www.meetup.com/OpenTechSchool-Brussels/events/lncmfpyxgbmb/)
+
+2.  **Tuesday**   - 10/4  
+    * Code Alongs
+      * [Organizing Development](https://elewa-academy.github.io/Fundamentals/08-organizing-development/)
+      * [TDD Katas](https://elewa-academy.github.io/Fundamentals/05-tdd-katas/)
+
+     
+3. **Wednesday**   - 11/4 
+    * Code Alongs
+      * [Organizing Development](https://elewa-academy.github.io/Fundamentals/08-organizing-development/)
+      * [Human-Centered Design](https://elewa-academy.github.io/Fundamentals/09-human-centered-design/)
+
+4. **Thursday**   - 12/4   
+    * Code Alongs
+      * [BattleShip](https://elewa-academy.github.io/Fundamentals/10-all-together/)
 
 
 ___

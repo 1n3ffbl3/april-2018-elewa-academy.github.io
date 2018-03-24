@@ -1,58 +1,59 @@
-2/4 - 6/4
+# Week 1:  2/4 - 8/4
+
+This week's main objective is getting to know each other, learn to organize and present our work, and become comfortable using code to solve isolated problems:
+* Using Git/Hub
+* Working out of Terminal/Editor
+* Testing Functions
+* Reading/Writing Code
+* Presenting Your Work
+* Tracking Your Progress
 
 
-  
-**Learning Objectives**  
-* User-focused development
-* Frontend comfort 
-* Using JavaScript
-* Logic vs framework
-* Devtools comfort
+___
 
-**Monday**   
-* Welcome stuff
-  * Introductions all around
-  * How this course works
-  * How projects work
-  * Setting expectations
-* Code Alongs
-  * [Consolidate JS 30's](https://elewa-academy.github.io/Frontend-Code-Alongs/01-consolidate-js-30/)
-  * [JS Exercises](https://elewa-academy.github.io/Frontend-Code-Alongs/00-js-exercises/)
-* Projects
-  * Due
-    * [Precourse](https://elewa-academy.github.io/April-Precourse/) - Portfolio & JS 30's
-  * Start
-    * [Frontend Muscles](https://elewa-academy.github.io/Frontend-Projects/00-frontend-muscles/)
+## **Project Completion Goals**  
+* [7+ Codewar Repos](https://elewa-academy.github.io/Fundamentals/04-codewars-gallery/)
+* [5+ TDD Repos](https://elewa-academy.github.io/Fundamentals/05-tdd-katas/)
+* [CleanCalc](https://elewa-academy.github.io/Fundamentals/06-clean-calc/) 
+* [Code Specs & Refactoring](https://elewa-academy.github.io/Fundamentals/07-code-specs-refactoring/)
+* Publish your first [Weekly Notes](https://elewa-academy.github.io/Fundamentals/00-motivation-studying/)
 
-**Tuesday**  
-* Code Alongs
-  * [User-Centered Development](https://elewa-academy.github.io/Frontend-Code-Alongs/02-user-centered-development/)
-  * [JS Exercises](https://elewa-academy.github.io/Frontend-Code-Alongs/00-js-exercises/)
-* Projects
-  * Continue [Frontend Muscles](https://elewa-academy.github.io/Frontend-Projects/00-frontend-muscles/)
+___
+## Daily Schedule
 
-**Wednesday**   
-* Code Alongs
-  * [User-Centered Development](https://elewa-academy.github.io/Frontend-Code-Alongs/02-user-centered-development/)
-  * [JS Exercises](https://elewa-academy.github.io/Frontend-Code-Alongs/00-js-exercises/)
-* Projects
-  * Continue [Frontend Muscles](https://elewa-academy.github.io/Frontend-Projects/00-frontend-muscles/)
+1. **Monday**   - 2/4
+    * Welcome stuff
+      * Introductions all around
+      * What to expect
+      * Meet [Digityser](http://digityser.org/)
+    * Code Alongs
+      * [Study Journal](https://elewa-academy.github.io/Fundamentals/00-motivation-studying/)
+      * [Coding is Not About Code](https://elewa-academy.github.io/Fundamentals/01-coding-is-not-about-code/)
+      * [Showcasing Your Work](https://elewa-academy.github.io/Fundamentals/02-js-30-gallery/)
+      * [The Buddy System](https://elewa-academy.github.io/Fundamentals/03-the-buddy-system/)
+    * Evening Events
+      * [OpenTechSchool](https://www.meetup.com/OpenTechSchool-Brussels/events/lncmfpyxgbdb/)
 
-**Thursday**  
-* Code Alongs
-  * [Logic vs Framework](https://elewa-academy.github.io/Frontend-Code-Alongs/03-logic-vs-framework/)
-* Projects
-  * Due
-    * [Frontend Muscles](https://elewa-academy.github.io/Frontend-Projects/00-frontend-muscles/)
-  * Start
-    * [Clean Calc](https://elewa-academy.github.io/Frontend-Projects/01-clean-calc/)  
+2.  **Tuesday**   - 2/5   
+    * Code Alongs
+      * [Solutions & Understanding JS](https://elewa-academy.github.io/Fundamentals/04-codewars-gallery/) 
+    * Lunch Break
+      * [Visit StartIt](http://startit.be/)
 
-**Friday**
-  * Due
-    * [Clean Calc](https://elewa-academy.github.io/Frontend-Projects/01-clean-calc/)
-  * Start
-    * [Ultra Practical JavaScript](https://elewa-academy.github.io/Frontend-Projects/02-ultra-practical-javascript/)
+     
+3. **Wednesday**   - 2/6  
+    * Meet [Hyperion](http://hyperion.be/)
+    * Code Alongs
+      * [Solutions & Understanding JS](https://elewa-academy.github.io/Fundamentals/04-codewars-gallery/) 
+      * [TDD Katas](https://elewa-academy.github.io/Fundamentals/05-tdd-katas/)
 
+4. **Thursday**   - 2/7   
+    * Code Alongs
+      * [Separation of Concerns](https://elewa-academy.github.io/Fundamentals/06-clean-calc/)
+
+5. **Friday**   - 2/8
+    * Code Alongs
+        * [Code Specs & Refactoring](https://elewa-academy.github.io/Fundamentals/07-code-specs-refactoring/)
 
 ___
 ___

@@ -1,16 +1,13 @@
 # Summary
 
-* [Projects & Resources](./README.md) 
+* [April Home Page](./README.md) 
 * [Weekly Overview](./00-Weekly-Overview.md) 
   * [Week 1](./01-Week-1.md)  
   * [Week 2](./02-Week-2.md)  
   * [Week 3](./03-Week-3.md)    
-  * [Week 4](./04-Week-4.md)  
-  * [Week 5](./05-Week-5.md)  
-  * [Week 6](./06-Week-6.md) 
-  * [Week 7](./07-Week-7.md)    
-  * [Week 8](./08-Week-8.md)  
-  * [Week 9](./09-Week-9.md)  
-  * [Week 10](./10-Week-10.md)  
-* [Job Search](./11-Job-Search.md)
+* [General Resources](https://github.com/elewa-academy/General-Resources/wiki)
+* [Job Search](https://github.com/elewa-academy/General-Resources/wiki/Job-Search)
+* [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
 * [Repo](https://github.com/elewa-academy/April-2018/tree/master/)
+* [Home](https://elewa-academy.github.io/)
+
