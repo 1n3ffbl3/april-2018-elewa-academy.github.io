@@ -12,7 +12,7 @@ This week's main objective is learning how to plan and organize your development
 ___
 
 ## **Project Completion Goals**  
-* All of [Modular Design](https://elewa-academy.github.io/Modular-Design/)
+* [BattleShip](https://elewa-academy.github.io/Fundamentals/11-all-together/)
 * Collaborative Project from the Workshop
 * [3+ Codewar Repos](https://elewa-academy.github.io/Fundamentals/04-codewars-gallery/)
 * [3+ TDD Repos](https://elewa-academy.github.io/Fundamentals/05-tdd-katas/)
@@ -23,17 +23,15 @@ ___
 
 1. **Monday**   - 16/4
     * Code Alongs
-      * [Ultra-Practical JavaScirpt](https://elewa-academy.github.io/Modular-Design/00-ultra-practical-javascript/)
-      * [MVC](https://elewa-academy.github.io/Modular-Design/01-mvc/)
-    * Evening Events
-      * [OpenTechSchool](https://www.meetup.com/OpenTechSchool-Brussels/events/lncmfpyxgbvb/)
+      * [BattleShip](https://elewa-academy.github.io/Fundamentals/11-all-together/)
+    * Afternoon: No Start It
+
 
 2.  **Tuesday**   - 17/4  
     * Code Alongs
-       * [Dependency Injection](https://elewa-academy.github.io/Modular-Design/02-dependency-injection/)
-       * [Testing Modules](https://elewa-academy.github.io/Modular-Design/04-testing-modules/)
-    * Challenge: 
-        * [Async Interactions](https://elewa-academy.github.io/Modular-Design/03-async-interactions/)
+       * Catchup day
+    * Afternoon: No Start It    
+        
      
 3. **Wednesday**   - 18/4 
     * Collaboration Workshop

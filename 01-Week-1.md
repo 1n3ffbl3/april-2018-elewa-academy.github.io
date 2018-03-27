@@ -15,7 +15,7 @@ ___
 * [7+ Codewar Repos](https://elewa-academy.github.io/Fundamentals/04-codewars-gallery/)
 * [5+ TDD Repos](https://elewa-academy.github.io/Fundamentals/05-tdd-katas/)
 * [CleanCalc](https://elewa-academy.github.io/Fundamentals/06-clean-calc/) 
-* [Code Specs & Refactoring](https://elewa-academy.github.io/Fundamentals/07-code-specs-refactoring/)
+* [Code Specs & Refactoring](https://elewa-academy.github.io/Fundamentals/07-code-specs-refactoring/) - Weekend project
 * Publish your first [Weekly Notes](https://elewa-academy.github.io/Fundamentals/00-motivation-studying/)
 
 ___
@@ -31,8 +31,6 @@ ___
       * [Coding is Not About Code](https://elewa-academy.github.io/Fundamentals/01-coding-is-not-about-code/)
       * [Showcasing Your Work](https://elewa-academy.github.io/Fundamentals/02-js-30-gallery/)
       * [The Buddy System](https://elewa-academy.github.io/Fundamentals/03-the-buddy-system/)
-    * Evening Events
-      * [OpenTechSchool](https://www.meetup.com/OpenTechSchool-Brussels/events/lncmfpyxgbdb/)
 
 2.  **Tuesday**   - 2/5   
     * Code Alongs
@@ -50,10 +48,6 @@ ___
 4. **Thursday**   - 2/7   
     * Code Alongs
       * [Separation of Concerns](https://elewa-academy.github.io/Fundamentals/06-clean-calc/)
-
-5. **Friday**   - 2/8
-    * Code Alongs
-        * [Code Specs & Refactoring](https://elewa-academy.github.io/Fundamentals/07-code-specs-refactoring/)
 
 ___
 ___
