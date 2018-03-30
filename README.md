@@ -1,8 +1,7 @@
 # April 2018 Home Page
 
+Go to the [live home page](https://April-2018-Elewa-Academy.github.io)
 
-
-Keep an eye on this page for any important updates.
 
 ___
 ___
