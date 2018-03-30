@@ -10,7 +10,6 @@ git pull elewa master
 # cd docs_src
 # build new gitbook
 gitbook build
-# copy it out of the way for branch change
 # f to overwirte last publication
 cp -rf ./_book/. ../
 # delete the /_book foler
