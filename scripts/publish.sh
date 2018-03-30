@@ -1,6 +1,8 @@
+# This script should be run from within the src folder
+
 # add, commit recent changes
 git add .
-git commit -m 'clearing /docs'
+git commit -m 'building'
 git checkout master
 # delete contents in /docs to avoid conflicts
 # rm -rf ./docs
@@ -21,6 +23,7 @@ git add .
 git commit -m 'publishing'
 # publish changes
 git push elewa master
+
 
 # to execute this file run this command in terminal:
 # chmod a+x ./publish.sh

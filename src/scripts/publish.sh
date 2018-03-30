@@ -1,5 +1,3 @@
-# This script should be run from within the src folder
-
 # add, commit recent changes
 git add .
 git commit -m 'building'
@@ -9,7 +7,7 @@ git checkout master
 # pull other changes
 git pull elewa master
 # enter gitbook source
-# cd docs_src
+cd docs
 # build new gitbook
 gitbook build
 # f to overwirte last publication
@@ -17,7 +15,7 @@ cp -rf ./_book/. ../
 # delete the /_book foler
 rm -rf _book
 # return to parent directory
-# cd ..
+cd ..
 # commit recent build
 git add .
 git commit -m 'publishing'
