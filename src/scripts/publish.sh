@@ -12,9 +12,8 @@ git pull elewa master
 gitbook build
 # f to overwirte last publication
 cp -rf ./_book/. ../
-touch ../test.txt
 # delete the /_book foler
-rm -rf _book
+# rm -rf _book
 # return to parent directory
 # cd ..
 # commit recent build
