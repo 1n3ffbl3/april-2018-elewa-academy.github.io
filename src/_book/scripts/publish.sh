@@ -1,5 +1,3 @@
-# This script should be run from within the src folder
-
 # add, commit recent changes
 git add .
 git commit -m 'building'
@@ -13,7 +11,7 @@ git pull elewa master
 # build new gitbook
 gitbook build
 # f to overwirte last publication
-cp -rf ./_book/. ../
+cp -rf ./_book/. ./
 # delete the /_book foler
 rm -rf _book
 # return to parent directory
@@ -22,8 +20,7 @@ rm -rf _book
 git add .
 git commit -m 'publishing'
 # publish changes
-git push elewa master
-
+# git push elewa master
 
 # to execute this file run this command in terminal:
 # chmod a+x ./publish.sh
