@@ -7,7 +7,7 @@ git checkout master
 # pull other changes
 git pull elewa master
 # enter gitbook source
-cd docs
+cd src
 # build new gitbook
 gitbook build
 # f to overwirte last publication
