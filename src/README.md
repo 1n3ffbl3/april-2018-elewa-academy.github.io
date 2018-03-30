@@ -1,8 +1,7 @@
 # April 2018 Home Page
 
 
-
-Keep an eye on this page for any important updates.
+Come here to find out what we're doing each day, to keep up with assignments, or just to have fun.
 
 ___
 ___
