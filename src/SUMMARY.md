@@ -7,4 +7,5 @@
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
 * [Projects](https://elewa-academy.github.io/curriculum.html)
 * [GitHub](https://github.com/April-2018-Elewa-Academy)
+* [Code Review](https://github.com/April-2018-Elewa-Academy/code-review-checklist)
 
